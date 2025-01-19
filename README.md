@@ -5,3 +5,7 @@
 ## Examples
 
 * BlueSky (https://docs.bsky.app/docs/advanced-guides/atproto)
+
+## Cloud
+
+* digital ocean ($6 per month)
